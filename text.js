@@ -1,0 +1,1 @@
+console.log("Hello world"); //you can use semi colon or not. js uses breakline. for safe use semicolon.
